@@ -27,3 +27,5 @@ public class CategoryService {
       return getAllCategories();
     }
 }
+
+//this is a commit msg
